@@ -19,7 +19,7 @@ that connects to multiple AI models through the **AgentRouter API gateway**.
 ### Installation
 
 ```bash
-git clone https://github.com/Mohamed3bdelwa7ed/ChatFlow-API.git
+git clone https://github.com/Mohamed3bdelwa7ed/ChatFlow-API-.git
 cd AgentRouter-AI-Chat
 ```
 
